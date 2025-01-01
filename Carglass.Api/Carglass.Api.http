@@ -1,0 +1,5 @@
+@Carglass.Api_HostAddress = http://localhost:5031
+
+GET {{Carglass.Api_HostAddress}}/numberdivision/decompose/321
+Accept: application/json
+###
